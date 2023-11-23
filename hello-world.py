@@ -3,7 +3,7 @@
 import icecream as ic
 
 def main():
-    hello-world = f'''Hello world!'''
+    hello-world = "Hi my name Isaac"
     ic(hello-world)
     
 main():
